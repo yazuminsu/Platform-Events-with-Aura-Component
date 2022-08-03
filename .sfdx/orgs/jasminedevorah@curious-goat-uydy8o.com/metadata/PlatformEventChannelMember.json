@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055h000005njujAAA",
+    "createdByName": "Jasmine Devorah Cuaresma",
+    "createdDate": "2022-06-27T09:19:32.000Z",
+    "fileName": "platformEventChannelMembers/ChangeEvents_Employee_ChangeEvent.platformEventChannelMember",
+    "fullName": "ChangeEvents_Employee_ChangeEvent",
+    "id": "0v85h000000fxruAAA",
+    "lastModifiedById": "0055h000005njujAAA",
+    "lastModifiedByName": "Jasmine Devorah Cuaresma",
+    "lastModifiedDate": "2022-06-27T09:19:32.000Z",
+    "manageableState": "unmanaged",
+    "type": "PlatformEventChannelMember"
+  }
+}

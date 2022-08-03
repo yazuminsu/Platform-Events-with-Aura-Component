@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055h000005njujAAA",
+      "createdByName": "Jasmine Devorah Cuaresma",
+      "createdDate": "2022-06-27T09:45:38.000Z",
+      "fileName": "triggers/OpportunityChangeTrigger.trigger",
+      "fullName": "OpportunityChangeTrigger",
+      "id": "01q5h000000dYENAA2",
+      "lastModifiedById": "0055h000005njujAAA",
+      "lastModifiedByName": "Jasmine Devorah Cuaresma",
+      "lastModifiedDate": "2022-06-27T09:54:41.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0055h000005njujAAA",
+      "createdByName": "Jasmine Devorah Cuaresma",
+      "createdDate": "2022-06-27T09:37:15.000Z",
+      "fileName": "triggers/EmployeeChangeTrigger.trigger",
+      "fullName": "EmployeeChangeTrigger",
+      "id": "01q5h000000dYEIAA2",
+      "lastModifiedById": "0055h000005njujAAA",
+      "lastModifiedByName": "Jasmine Devorah Cuaresma",
+      "lastModifiedDate": "2022-06-27T09:38:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0055h000005njujAAA",
+      "createdByName": "Jasmine Devorah Cuaresma",
+      "createdDate": "2022-06-27T07:24:02.000Z",
+      "fileName": "triggers/CloudNewsTrigger.trigger",
+      "fullName": "CloudNewsTrigger",
+      "id": "01q5h000000dYDFAA2",
+      "lastModifiedById": "0055h000005njujAAA",
+      "lastModifiedByName": "Jasmine Devorah Cuaresma",
+      "lastModifiedDate": "2022-06-27T07:24:02.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0055h000005njujAAA",
+      "createdByName": "Jasmine Devorah Cuaresma",
+      "createdDate": "2022-08-03T04:34:57.000Z",
+      "fileName": "triggers/BearAlertTopicAssignmentTrigger.trigger",
+      "fullName": "BearAlertTopicAssignmentTrigger",
+      "id": "01q5h000000Z4KFAA0",
+      "lastModifiedById": "0055h000005njujAAA",
+      "lastModifiedByName": "Jasmine Devorah Cuaresma",
+      "lastModifiedDate": "2022-08-03T04:35:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0055h000005njujAAA",
+      "createdByName": "Jasmine Devorah Cuaresma",
+      "createdDate": "2022-06-27T07:51:11.000Z",
+      "fileName": "triggers/OrderEventTrigger.trigger",
+      "fullName": "OrderEventTrigger",
+      "id": "01q5h000000dYDKAA2",
+      "lastModifiedById": "0055h000005njujAAA",
+      "lastModifiedByName": "Jasmine Devorah Cuaresma",
+      "lastModifiedDate": "2022-06-27T07:55:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}
